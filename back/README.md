@@ -1,1 +1,1 @@
-Simple api consuming data from local mongodb
+Simple api with Express js consuming data from local mongodb
